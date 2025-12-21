@@ -1,7 +1,7 @@
 - 👋 Hi, welcome to @Fhadk world.
 - 👀 I'm currently looking for a new opportunity as an Integration Expert | Solution architect | IVR Developer | Java Expert | DevOps Engineer
 - 🌱 I have 10+ years of experience in Java(8 | 11 | 17), Kotlin, Spring, hibernate, and CI / CD
-- 💞️ I would love to collaborate on the project developed in Java and kotlin
+- 💞️ I would love to collaborate on the project developed in Java and Kotlin. Currently working as a solution architect/project manager. 
 - 📫 Ping me to have a conversation fhadk@outlook.com
 
 <!---
